@@ -1,5 +1,5 @@
-# logo-trademark-license
-Logo Trademark License
+# Logo As Sticker License
+See if you can use the logo for commercial stickers.
 
 ## List
 
