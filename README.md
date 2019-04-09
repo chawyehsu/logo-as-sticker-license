@@ -20,7 +20,10 @@ See if you can use the very recognizable trademark/logo for commercial stickers.
 | jQuery | ❔ | - | [Link](https://js.foundation/about/governance/trademark-policy) |
 | Jenkins | ✔️ | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [Link](https://wiki.jenkins.io/display/JENKINS/Logo) |
 | JS | ✔️ | [MIT](https://github.com/voodootikigod/logo.js/blob/master/LICENSE) | [Link](https://github.com/voodootikigod/logo.js) |
+| [MongoDB](https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg) | ❌ | [All Rights Reserved](https://www.mongodb.com/legal/trademark-usage-guidelines) | [Link](https://www.mongodb.com/brand-resources) |
+| Node.js | ❌🈸 | All Rights Reserved | [Link](https://nodejs.org/en/about/trademark/) |
 | PostCSS | ✔️ | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Link](https://github.com/postcss/brand) |
+| [Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png) | 🈸 | [All Rights Reserved](https://www.python.org/psf/trademarks/#unaltered-logos) | [Link](https://www.python.org/psf/trademarks/) |
 | [PHP](https://www.php.net/images/logos/new-php-logo.svg) | ✔️ | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Link](https://www.php.net/download-logos.php) |
 | React | ❔ | - | - |
 | [Redux](https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png) | ✔️ | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Link](https://github.com/reduxjs/redux/tree/master/logo) |
