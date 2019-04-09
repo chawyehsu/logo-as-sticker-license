@@ -1,6 +1,8 @@
 # Logo As Sticker License
 See if you can use the very recognizable trademark/logo for commercial stickers.
 
+![ah!](banner.jpg)
+
 ## List
 
 | Name | Commercial use | License | Statement |
