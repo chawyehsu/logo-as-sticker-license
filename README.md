@@ -35,3 +35,11 @@ See if you can use the very recognizable trademark/logo for (print and sell) com
 | Vue | ❌ | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [Link](https://github.com/vuejs/art) |
 | Webpack | 🈸 | [EULA](https://github.com/webpack/media/blob/master/LICENSE) | [Link](https://github.com/webpack/media) |
 | Yarn | ✔️ | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Link](https://github.com/yarnpkg/assets) |
+
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Chawye Hsu](https://twitter.com/chawyehsu) has waived all copyright and related or neighboring rights to this work.
+
+See [LICENSE](LICENSE) for more information.
