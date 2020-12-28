@@ -1,5 +1,6 @@
 # Logo As Sticker License
-See if you can use the very recognizable trademark/logo for (print and sell) commercial stickers.
+
+See if you can use the very recognizable trademark/logo for commercial (**print and sell**) stickers.
 
 ![ah!](banner.jpg)
 
