@@ -12,6 +12,7 @@ Notation: ✔️ - Definitely Yes, ❌ - Definitely No, 🈸 - Requests to use, 
 |:-----|:--------------:|:--------|:---------:|
 | [Angular](https://angular.io/assets/images/logos/angular/angular.svg) | ✔️ | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Link](https://angular.io/presskit) |
 | Babel | ✔️ | [MIT](https://github.com/babel/logo/blob/master/LICENSE) | [Link](https://github.com/babel/logo) |
+| [C++](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png) | ✔️ | [The Standard C++ Foundation](https://isocpp.org/home/terms-of-use) | [Link](https://github.com/isocpp/logos) |
 | Docker |❌🈸 | All Rights Reserved | [Link](https://www.docker.com/legal/trademark-guidelines) |
 | ESLint | ❔ | - | [Link](https://js.foundation/about/governance/trademark-policy) |
 | Git | ✔️ | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [Link](https://git-scm.com/downloads/logos) |
@@ -32,6 +33,7 @@ Notation: ✔️ - Definitely Yes, ❌ - Definitely No, 🈸 - Requests to use, 
 | [Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png) | 🈸 | [All Rights Reserved](https://www.python.org/psf/trademarks/#unaltered-logos) | [Link](https://www.python.org/psf/trademarks/) |
 | React | ❔ | - | - |
 | [Redux](https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png) | ✔️ | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Link](https://github.com/reduxjs/redux/tree/master/logo) |
+| [Rust](https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-512x512-blk.png) |  | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Link](https://github.com/rust-lang/rust-artwork) |
 | Sass | ❌ | [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | [Link](http://sass-lang.com/styleguide/brand) |
 | [TS](https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png) | ✔️ | [MIT](https://github.com/remojansen/logo.ts/blob/master/LICENSE) | [Link](https://github.com/remojansen/logo.ts) |
 | Twitter | ❔ | All Rights Reserved | [Link](https://about.twitter.com/content/dam/about-twitter/company/brand-resources/en_us/Twitter_Brand_Guidelines_V2_0.pdf) |
