@@ -15,6 +15,7 @@ Notation: ✔️ - Definitely Yes, ❌ - Definitely No, 🈸 - Requests to use, 
 | [CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png) | ✔️ | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [Link](https://www.w3.org/html/logo/) |
 | [C++](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png) | ✔️ | [The Standard C++ Foundation](https://isocpp.org/home/terms-of-use) | [Link](https://github.com/isocpp/logos) |
 | Dart | ❌ | All Rights Reserved | [Link](https://dart.dev/brand#specific-rules-for-proper-usage-of-the-dart-trademarks) |
+| [Deno](https://raw.githubusercontent.com/denoland/doc_website/master/public/logo.svg) | ✔️ | MIT | Link |
 | Docker |❌🈸 | All Rights Reserved | [Link](https://www.docker.com/legal/trademark-guidelines) |
 | ESLint | ❔ | - | [Link](https://js.foundation/about/governance/trademark-policy) |
 | Git | ✔️ | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [Link](https://git-scm.com/downloads/logos) |
